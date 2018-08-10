@@ -6,7 +6,7 @@
 - [x] [装饰器模式](https://github.com/WilliamsZhang/Design_Patterns/wiki/%E8%A3%85%E9%A5%B0%E5%99%A8%E6%A8%A1%E5%BC%8F)
 - [ ] [观察者模式]()
 - [x] [适配器模式](https://github.com/WilliamsZhang/Design_Patterns/wiki/%E9%80%82%E9%85%8D%E5%99%A8%E6%A8%A1%E5%BC%8F)
-- [ ] 单例模式
+- [x] [单例模式](https://github.com/WilliamsZhang/Design_Patterns/wiki/%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F)
 - [ ] 工厂模式
 - [ ] 模板方法模式
 - [ ] 外观模式

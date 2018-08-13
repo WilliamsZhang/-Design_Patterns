@@ -9,7 +9,7 @@
 - [x] [单例模式](https://github.com/WilliamsZhang/Design_Patterns/wiki/%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F)
 - [x] [工厂模式](https://github.com/WilliamsZhang/Design_Patterns/wiki/%E7%AE%80%E5%8D%95%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8F)
 - [x] [模板模式](https://github.com/WilliamsZhang/Design_Patterns/wiki/%E6%A8%A1%E6%9D%BF%E6%A8%A1%E5%BC%8F)
-- [ ] 外观模式
+- [x] [外观模式](https://github.com/WilliamsZhang/Design_Patterns/wiki/%E5%A4%96%E8%A7%82%E6%A8%A1%E5%BC%8F)
 - [ ] 代理模式
 - [ ] 责任链模式
 
